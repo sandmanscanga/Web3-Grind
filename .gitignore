@@ -165,5 +165,5 @@ cython_debug/
 # More useful locations to ignore from source control
 venv
 __pycache__/
-.github/
 .pylintrc
+private/
