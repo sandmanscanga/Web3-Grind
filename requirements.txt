@@ -63,7 +63,7 @@ regex==2023.6.3
 requests==2.31.0
 rich==13.4.2
 rlp==3.0.0
-rpds-py==0.8.11
+rpds-py==0.10.6
 six==1.16.0
 soupsieve==2.4.1
 stack-data==0.6.2
